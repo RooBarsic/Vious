@@ -1,2 +1,5 @@
-# Vious
-Vious for android, web and laptop releases ( from https://github.com/RooBarsic/My_Projects/tree/master/Vious )
+<h2> Description in English   https://github.com/RooBarsic/My_Projects/blob/master/Vious/README.en.md </h2>
+
+
+<h2> Описание на русском  	https://github.com/RooBarsic/My_Projects/blob/master/Vious/README.ru.md </h2>
+
